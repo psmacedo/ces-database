@@ -79,14 +79,14 @@ where the coefficient represents the Halloween effect.
 
 
 ### CES scores
-* CES<sub>A</sub> represents the count of calendar effects for a given country and year that are significant at the 5% level.
+* CES<sub>A</sub> measures the number of calendar effects for a given country and year that are significant at the 5% level.
 
-* CES<sub>B</sub> represents the average daily absolute anomalous return of calendar effects that are significant at the 5% level for a given country and year.
+* CES<sub>B</sub> measures the average daily absolute anomalous return of calendar effects that are significant at the 5% level for a given country and year.
 <p align="center">
 <img src="/Images/cesb.gif" alt="CES B" height="50"/>
 </p>
 
-* CES<sub>C</sub> represents the average daily absolute anomalous return of all potential calendar effects for a given country and year.
+* CES<sub>C</sub> measures the average daily absolute anomalous return of all potential calendar effects for a given country and year.
 <p align="center">
 <img src="/Images/cesc.gif" alt="CES C" height="50"/>
 </p>
