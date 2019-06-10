@@ -99,5 +99,3 @@ where the coefficient represents the Halloween effect.
 | Median       	| 0               	| 0.00             	| 0.00             	|
 | Mean         	| 0.42            	| 0.20            	| 0.04            	|
 | Max          	| 4               	| 2.70            	| 0.91            	|
-
-<img src="/Images/ces_histogram.png" alt="CES A" height="400"/><img src="/Images/ces_density.png" alt="CES B & CES C" height="400"/>
